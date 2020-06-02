@@ -6,7 +6,7 @@
 
 Метрики точности:
 
-![Image alt](hhttps://github.com/dbogdan2000/Lab3/blob/master/1/V1_Acc.1:batch%3D8%2Clr%20%3D%200.00000009.png)
+![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V1_Acc.1:batch%3D8%2Clr%20%3D%200.00000009.png)
 
 ![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V1_Val_Acc.1:batch%3D8%2Clr%20%3D%200.00000009.png)
 

@@ -2,19 +2,19 @@
 
 В первым пунктом лабораторной работы было создание и обучение нейронной сети VGG16. Результаты обучения с разными параметрами:
 
-1. BATCH_SIZE = 8, lr = 0.00000009
+1. BATCH_SIZE = 8, lr = 0.00000002
 
 Метрики точности:
 
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V1_Acc.1:batch%3D8%2Clr%20%3D%200.00000009.png)
+![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V1_Acc.1:batch%3D8%2Clr%20%3D%200.00000002.png)
 
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V1_Val_Acc.1:batch%3D8%2Clr%20%3D%200.00000009.png)
+![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V1_Val_Acc.1:batch%3D8%2Clr%20%3D%200.00000002.png)
 
 Функции потерь:
 
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V1_Loss.1:batch%3D8%2Clr%20%3D%200.00000009.png)
+![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V1_Loss.1:batch%3D8%2Clr%20%3D%200.00000002.png)
 
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V1_Val_Loss.1:batch%3D8%2Clr%20%3D%200.00000009.png)
+![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V1_Val_Loss.1:batch%3D8%2Clr%20%3D%200.00000002.png)
 
 2. BATCH_SIZE = 8, lr = 0.0000005
 
@@ -30,31 +30,19 @@
 
 ![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V2_Val_Loss.1:batch%3D8%2Clr%20%3D%200.0000005.png)
 
-3. BATCH_SIZE = 8, lr = 0.0000008
+3. BATCH_SIZE = 8, lr = 0.0000009
 
 Метрики точности:
 
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V3_Acc.1:batch%3D8%2Clr%20%3D%200.0000008.png)
+![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V3_Acc.1:batch%3D8%2Clr%20%3D%200.0000009.png)
 
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V3_Val_Acc.1:batch%3D8%2Clr%20%3D%200.0000008.png)
-
-Функции потерь:
-
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V3_Loss.1:batch%3D8%2Clr%20%3D%200.0000008.png)
-
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V3_Val_Loss.1:batch%3D8%2Clr%20%3D%200.0000008.png)
-
-4. BATCH_SIZE = 8, lr = 0.0000002
-
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V4_Acc.1:batch%3D8%2Clr%20%3D%200.0000002.png)
-
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V4_Val_Acc.1:batch%3D8%2Clr%20%3D%200.0000002.png)
+![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V3_Val_Acc.1:batch%3D8%2Clr%20%3D%200.0000009.png)
 
 Функции потерь:
 
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V4_Loss.1:batch%3D8%2Clr%20%3D%200.0000002.png)
+![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V3_Loss.1:batch%3D8%2Clr%20%3D%200.0000009.png)
 
-![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V4_Val_Loss.1:batch%3D8%2Clr%20%3D%200.0000002.png)
+![Image alt](https://github.com/dbogdan2000/Lab3/blob/master/1/V3_Val_Loss.1:batch%3D8%2Clr%20%3D%200.0000009.png)
 
 
 Вторым пунктом в данной работе нужно было провести обучение классификатора на предобученной на imagenet сети VGG16. В сети замораживались свёрточные слои. Результаты обучения:
